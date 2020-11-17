@@ -11,3 +11,13 @@
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
 	border: 1px solid black;
 }
+#collapsable-nav #nav-list {
+	text-align: center;
+}
+#collapsable-nav #nav-list li span {
+	color: white;
+	font-size: 1.3em;
+}
+#collapsable-nav #nav-list li span hr {
+	margin-bottom: 5px;
+}
