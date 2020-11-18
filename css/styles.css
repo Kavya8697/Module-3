@@ -18,6 +18,21 @@
 	color: white;
 	font-size: 1.3em;
 }
-#collapsable-nav #nav-list li span hr {
-	margin-bottom: 5px;
+#collapsable-nav hr {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+#chicken-div, #Beef-div, #Sushi-div {
+	background-color: gray;
+	margin-top: 20px;
+}
+section p {
+	font-size: 1.3em;
+	font-style: oblique;
+}
+section h3 {
+	font-weight: bold;
+}
+h2 {
+	font-weight: bold;
 }
